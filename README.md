@@ -12,3 +12,6 @@ This project contains a Jupyter Notebook (heart_attack.ipynb) that analyzes a he
 - Cholesterol & blood pressure exploration
 - Visualizations (bar plots, histograms, etc.)
 
+### Requirements
+pip install pandas numpy matplotlib seaborn
+
